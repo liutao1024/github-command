@@ -8,3 +8,4 @@
 8.git mv oldFileName newFileName
 9.git branch -r/a
 10.git remote 
+11.git branch dev & git merge master
