@@ -5,3 +5,5 @@
 5.git status
 6.git add 'My-Project' > README.md
 7.git rm
+8.git branch -r/a
+9.git remote 
