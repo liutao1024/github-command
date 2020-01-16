@@ -4,6 +4,7 @@
 4.git commit -a -m 'message' = 2+3
 5.git status
 6.git add 'My-Project' > README.md
-7.git rm
-8.git branch -r/a
-9.git remote 
+7.git rm fileName
+8.git mv oldFileName newFileName
+9.git branch -r/a
+10.git remote 
